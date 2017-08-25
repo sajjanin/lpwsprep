@@ -10,8 +10,8 @@
 
 ```sh
 npm install -g create-react-app
-create-react-app my-app
-cd my-app/
+create-react-app lpworkshop
+cd lpworkshop/
 npm start
 ```
 For more information [Create React App](https://github.com/facebookincubator/create-react-app).
